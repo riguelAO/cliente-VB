@@ -1,0 +1,12 @@
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\bin\Debug\clienteVB.exe.config
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\bin\Debug\clienteVB.exe
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\bin\Debug\clienteVB.pdb
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\bin\Debug\clienteVB.xml
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.vbprojAssemblyReference.cache
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.Resources.resources
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.vbproj.GenerateResource.cache
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.vbproj.CoreCompileInputs.cache
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.exe
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.xml
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.pdb
+C:\Users\elena\source\repos\Trabajo_grupal\clienteVB\obj\Debug\clienteVB.Form1.resources
